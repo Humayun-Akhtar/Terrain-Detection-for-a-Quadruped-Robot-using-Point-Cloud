@@ -50,3 +50,5 @@ The algorithm concludes by visualizing the filtered point cloud, now representin
 
 By applying these steps, the algorithm effectively distinguishes between steppable and non-steppable surfaces, enabling robots to navigate more safely and efficiently across complex terrains.
 
+## Result
+![image](https://github.com/Humayun-Akhtar/Terrain-Detection-for-a-Quadruped-Robot-using-Point-Cloud/assets/115849836/4c4e3ad5-66bd-4600-bf17-305e0d05484f)
